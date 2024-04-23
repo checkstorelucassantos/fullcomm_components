@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "NPM FullComm User <lucas.santos@checkstore.com.br>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.15.15",
+    "mui-tel-input": "^5.1.2",
+    "react": "^18.2.0"
+  }
 }
