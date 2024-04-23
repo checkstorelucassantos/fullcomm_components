@@ -1,6 +1,6 @@
 {
   "name": "fullcomm-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default components for FullComm products",
   "main": "index.js",
   "scripts": {
